@@ -16,6 +16,8 @@
 
 ## 大模型 / AI
 
+- [OpenClaw 与 Claude Code 的相同点与不同点](大模型-AI/OpenClaw-vs-Claude-Code.md)
+
 ## 系统设计
 
 ## 编程语言
