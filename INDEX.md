@@ -14,6 +14,8 @@
 
 ## 数据库
 
+- [MySQL 的 MVCC 机制](数据库/MySQL-MVCC.md)
+
 ## 大模型 / AI
 
 - [OpenClaw 与 Claude Code 的相同点与不同点](大模型-AI/OpenClaw-vs-Claude-Code.md)
