@@ -22,6 +22,7 @@
 - [AI Agent 的调优评估与评测集构建](大模型-AI/Agent-调优评估与评测集构建.md)
 - [Agent 如何做意图识别](大模型-AI/Agent-意图识别.md)
 - [Prompt Engineering 核心技巧](大模型-AI/Prompt-Engineering-核心技巧.md)
+- [ReAct / Plan-and-Execute / Reflection 三种范式](大模型-AI/Agent-ReAct-PlanAndExecute-Reflection.md)
 
 ## 系统设计
 

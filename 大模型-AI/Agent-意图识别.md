@@ -159,6 +159,7 @@ else:
 ## 知识关联
 
 - [Agent 调优评估与评测集构建](./Agent-调优评估与评测集构建.md)
+- [ReAct / Plan-and-Execute / Reflection 三种范式](./Agent-ReAct-PlanAndExecute-Reflection.md)
 - [AI Agent 架构设计模式](./AI-Agent-架构设计模式.md)
 - [Prompt Engineering 核心技巧](./Prompt-Engineering-核心技巧.md)
 - [LLM 应用的工程化实践](./LLM-应用工程化实践.md)

@@ -342,6 +342,7 @@ Prompt 不是万能的。以下场景不应纯靠 Prompt：
 
 - [Agent 意图识别](./Agent-意图识别.md)
 - [Agent 调优评估与评测集构建](./Agent-调优评估与评测集构建.md)
+- [ReAct / Plan-and-Execute / Reflection 三种范式](./Agent-ReAct-PlanAndExecute-Reflection.md)
 - [AI Agent 架构设计模式](./AI-Agent-架构设计模式.md)
 - [LLM 应用的工程化实践](./LLM-应用工程化实践.md)
 - [OpenClaw 与 Claude Code 的相同点与不同点](./OpenClaw-vs-Claude-Code.md)
