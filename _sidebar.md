@@ -31,6 +31,7 @@
   - [Agent 意图识别](大模型-AI/Agent-意图识别.md)
   - [Prompt Engineering](大模型-AI/Prompt-Engineering-核心技巧.md)
   - [ReAct/Plan/Reflection](大模型-AI/Agent-ReAct-PlanAndExecute-Reflection.md)
+  - [多轮对话自我调整](大模型-AI/Agent-多轮对话自我调整.md)
 
 - **系统设计**
   - [Kafka 消息队列](系统设计/Kafka-消息队列.md)

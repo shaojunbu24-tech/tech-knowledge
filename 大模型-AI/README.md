@@ -9,6 +9,7 @@
 - [Agent 如何做意图识别](Agent-意图识别.md)
 - [Prompt Engineering 核心技巧](Prompt-Engineering-核心技巧.md)
 - [ReAct / Plan-and-Execute / Reflection 三种范式](Agent-ReAct-PlanAndExecute-Reflection.md)
+- [Agent 多轮对话自我调整机制](Agent-多轮对话自我调整.md)
 
 ---
 [返回总索引](../INDEX.md)

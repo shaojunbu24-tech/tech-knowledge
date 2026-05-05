@@ -38,6 +38,7 @@
 - [Agent 如何做意图识别](大模型-AI/Agent-意图识别.md)
 - [Prompt Engineering 核心技巧](大模型-AI/Prompt-Engineering-核心技巧.md)
 - [ReAct / Plan-and-Execute / Reflection 三种范式](大模型-AI/Agent-ReAct-PlanAndExecute-Reflection.md)
+- [Agent 多轮对话自我调整机制](大模型-AI/Agent-多轮对话自我调整.md)
 
 ## 系统设计
 
