@@ -10,6 +10,7 @@
 - [Prompt Engineering 核心技巧](Prompt-Engineering-核心技巧.md)
 - [ReAct / Plan-and-Execute / Reflection 三种范式](Agent-ReAct-PlanAndExecute-Reflection.md)
 - [Agent 多轮对话自我调整机制](Agent-多轮对话自我调整.md)
+- [Agent 上下文过长怎么处理](Agent-上下文过长.md)
 
 ---
 [返回总索引](../INDEX.md)
