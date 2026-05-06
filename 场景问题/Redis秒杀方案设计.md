@@ -567,6 +567,7 @@ MySQL 侧的二次保障：
 
 - [Redis I/O 多路复用与网络 I/O 模型](../数据库/Redis-IO多路复用.md)
 - [Redis 缓存穿透、击穿、雪崩与预热](../数据库/Redis-缓存穿透-击穿-雪崩-预热.md)
+- [Redis 与 MySQL 双写一致性](../数据库/Redis与MySQL双写一致性.md)
 - [MySQL 的 MVCC 机制](../数据库/MySQL-MVCC.md)
 - [Kafka 消息队列核心原理](../系统设计/Kafka-消息队列.md)
 - [进程、线程、协程的区别与联系](../操作系统/进程-线程-协程.md)

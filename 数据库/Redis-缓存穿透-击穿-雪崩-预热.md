@@ -572,3 +572,4 @@ python warm_up.py --module configs --all
 - [Redis 持久化：RDB 与 AOF](./Redis-持久化-RDB与AOF.md)
 - [Kafka 消息队列核心原理](../系统设计/Kafka-消息队列.md)
 - [10 张票 10 万人抢 — Redis + MySQL 秒杀方案](../场景问题/Redis秒杀方案设计.md)
+- [Redis 与 MySQL 双写一致性](./Redis与MySQL双写一致性.md)
