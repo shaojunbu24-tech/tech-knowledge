@@ -271,3 +271,4 @@ Producer 端                   Broker 端                  Consumer 端
 - [CAP 定理与 BASE 理论](./CAP定理与BASE理论.md)
 - [Redis 消息队列与 Stream](../数据库/Redis-消息队列与Stream.md)
 - [微服务架构设计](./微服务架构设计.md)
+- [10 张票 10 万人抢 — Redis + MySQL 秒杀方案](../场景问题/Redis秒杀方案设计.md)
