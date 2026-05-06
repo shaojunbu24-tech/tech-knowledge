@@ -396,4 +396,5 @@ Token 预算分配（假设总预算 128K Token）：
 - [ReAct/Plan-and-Execute/Reflection 三种范式](./Agent-ReAct-PlanAndExecute-Reflection.md)
 - [Agent 调优评估与评测集构建](./Agent-调优评估与评测集构建.md)
 - [Prompt Engineering 核心技巧](./Prompt-Engineering-核心技巧.md)
+- [开发中的 Token 优化技巧](./Token优化技巧.md)
 - [设计一个监控日志分析 Agent](../场景问题/监控日志分析Agent设计.md)

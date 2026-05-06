@@ -33,6 +33,7 @@
   - [ReAct/Plan/Reflection](大模型-AI/Agent-ReAct-PlanAndExecute-Reflection.md)
   - [多轮对话自我调整](大模型-AI/Agent-多轮对话自我调整.md)
   - [上下文过长处理](大模型-AI/Agent-上下文过长.md)
+  - [Token 优化技巧](大模型-AI/Token优化技巧.md)
 
 - **系统设计**
   - [Kafka 消息队列](系统设计/Kafka-消息队列.md)

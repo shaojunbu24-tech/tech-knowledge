@@ -11,6 +11,7 @@
 - [ReAct / Plan-and-Execute / Reflection 三种范式](Agent-ReAct-PlanAndExecute-Reflection.md)
 - [Agent 多轮对话自我调整机制](Agent-多轮对话自我调整.md)
 - [Agent 上下文过长怎么处理](Agent-上下文过长.md)
+- [开发中的 Token 优化技巧](Token优化技巧.md)
 
 ---
 [返回总索引](../INDEX.md)

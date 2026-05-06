@@ -346,3 +346,4 @@ Prompt 不是万能的。以下场景不应纯靠 Prompt：
 - [AI Agent 架构设计模式](./AI-Agent-架构设计模式.md)
 - [LLM 应用的工程化实践](./LLM-应用工程化实践.md)
 - [OpenClaw 与 Claude Code 的相同点与不同点](./OpenClaw-vs-Claude-Code.md)
+- [开发中的 Token 优化技巧](./Token优化技巧.md)

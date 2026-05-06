@@ -40,6 +40,7 @@
 - [ReAct / Plan-and-Execute / Reflection 三种范式](大模型-AI/Agent-ReAct-PlanAndExecute-Reflection.md)
 - [Agent 多轮对话自我调整机制](大模型-AI/Agent-多轮对话自我调整.md)
 - [Agent 上下文过长怎么处理](大模型-AI/Agent-上下文过长.md)
+- [开发中的 Token 优化技巧](大模型-AI/Token优化技巧.md)
 
 ## 系统设计
 
